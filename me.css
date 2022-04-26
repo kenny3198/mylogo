@@ -64,7 +64,7 @@ img{
     margin-left: 5px;
 
 }
-@media (max-width:760px) {
+@media (max-width:700px) {
     #container{
         width: 90%;
 }
